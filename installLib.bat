@@ -1,0 +1,1 @@
+pip install bs4 wget requests pyperclip os
